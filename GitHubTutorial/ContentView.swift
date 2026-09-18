@@ -13,9 +13,9 @@ struct ContentView: View {
             Color(.purple)
                 .ignoresSafeArea()
             VStack {
-                Image(systemName: "globe")
+                Image(systemName: "flag.pattern.checkered.2.crossed")
                     .imageScale(.large)
-                    .foregroundStyle(.tint)
+                    .foregroundStyle(.black)
                 Text("Hello, world!")
             }
             .padding()
