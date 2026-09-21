@@ -16,7 +16,7 @@ struct ContentView: View {
                 Image(systemName: "flag.pattern.checkered.2.crossed")
                     .imageScale(.large)
                     .foregroundStyle(.black)
-                Text("changing text and commit with terminal!!")
+                Text("changing text after accpeting invite!!")
             }
             .padding()
         }
