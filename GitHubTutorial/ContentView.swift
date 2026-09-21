@@ -16,7 +16,7 @@ struct ContentView: View {
                 Image(systemName: "flag.pattern.checkered.2.crossed")
                     .imageScale(.large)
                     .foregroundStyle(.black)
-                Text("Hello, world!")
+                Text("changing text after accpeting invite!!")
             }
             .padding()
         }
