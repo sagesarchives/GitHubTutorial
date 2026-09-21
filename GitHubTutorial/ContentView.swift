@@ -17,6 +17,7 @@ struct ContentView: View {
                     .imageScale(.large)
                     .foregroundStyle(.black)
                 Text("changing text after accpeting invite!!")
+                Text("slayyyy")
             }
             .padding()
         }
